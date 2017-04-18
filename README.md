@@ -1,9 +1,14 @@
-# api documentation for  [karma-jasmine (v1.1.0)](https://github.com/karma-runner/karma-jasmine#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-jasmine.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-jasmine) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-jasmine.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-jasmine)
+# npmdoc-karma-jasmine
+
+#### api documentation for  [karma-jasmine (v1.1.0)](https://github.com/karma-runner/karma-jasmine#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-jasmine.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-jasmine) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-jasmine.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-jasmine)
+
 #### A Karma plugin - adapter for Jasmine testing framework.
 
-[![NPM](https://nodei.co/npm/karma-jasmine.png?downloads=true)](https://www.npmjs.com/package/karma-jasmine)
+[![NPM](https://nodei.co/npm/karma-jasmine.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/karma-jasmine)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-karma-jasmine/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-karma-jasmine_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-karma-jasmine/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-karma-jasmine/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-karma-jasmine/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-karma-jasmine/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-karma-jasmine/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-karma-jasmine/build/screenCapture.npmPackageListing.svg)
 
@@ -17,104 +22,80 @@
 
 {
     "author": {
-        "name": "Vojta Jina",
-        "email": "vojta.jina@gmail.com"
+        "name": "Vojta Jina"
     },
     "bugs": {
         "url": "https://github.com/karma-runner/karma-jasmine/issues"
     },
     "contributors": [
         {
-            "name": "Maksim Ryzhikov",
-            "email": "rv.maksim@gmail.com"
+            "name": "Maksim Ryzhikov"
         },
         {
-            "name": "Mark Ethan Trostler",
-            "email": "mark@zzo.com"
+            "name": "Mark Ethan Trostler"
         },
         {
-            "name": "olegskl",
-            "email": "sklyanchuk@gmail.com"
+            "name": "olegskl"
         },
         {
-            "name": "Friedel Ziegelmayer",
-            "email": "dignifiedquire@gmail.com"
+            "name": "Friedel Ziegelmayer"
         },
         {
-            "name": "dignifiedquire",
-            "email": "dignifiedquire@gmail.com"
+            "name": "dignifiedquire"
         },
         {
-            "name": "Cornelius Schmale",
-            "email": "github@cschmale.de"
+            "name": "Cornelius Schmale"
         },
         {
-            "name": "Arthur Thornton",
-            "email": "arthur@thestorefront.com"
+            "name": "Arthur Thornton"
         },
         {
-            "name": "Friedel Ziegelmayer",
-            "email": "friedel.ziegelmayer@gmail.com"
+            "name": "Friedel Ziegelmayer"
         },
         {
-            "name": "Richard Park",
-            "email": "objectiv@gmail.com"
+            "name": "Richard Park"
         },
         {
-            "name": "Sergey Tatarintsev",
-            "email": "sevinf@yandex-team.ru"
+            "name": "Sergey Tatarintsev"
         },
         {
-            "name": "Stefan Dragnev",
-            "email": "dragnev@telerik.com"
+            "name": "Stefan Dragnev"
         },
         {
-            "name": "jiverson",
-            "email": "jiverson222@gmail.com"
+            "name": "jiverson"
         },
         {
-            "name": "Aaron Hartwig",
-            "email": "aaron.hartwig@whyhigh.com"
+            "name": "Aaron Hartwig"
         },
         {
-            "name": "rpark",
-            "email": "objectiv@gmail.com"
+            "name": "rpark"
         },
         {
-            "name": "Alesei N",
-            "email": "github.com@bzik.net"
+            "name": "Alesei N"
         },
         {
-            "name": "Barry Fitzgerald",
-            "email": "barfitzgerald@gmail.com"
+            "name": "Barry Fitzgerald"
         },
         {
-            "name": "Georgii Dolzhykov",
-            "email": "thorn.mailbox@gmail.com"
+            "name": "Georgii Dolzhykov"
         },
         {
-            "name": "Marek Vavrecan",
-            "email": "vavrecan@gmail.com"
+            "name": "Marek Vavrecan"
         },
         {
-            "name": "Matthew Hill",
-            "email": "Matthew.Hill4@bskyb.com"
+            "name": "Matthew Hill"
         },
         {
-            "name": "Milan Lempera",
-            "email": "milanlempera@gmail.com"
+            "name": "Milan Lempera"
         },
         {
-            "name": "Niels Dequeker",
-            "email": "niels.dequeker@gmail.com"
+            "name": "Niels Dequeker"
         },
         {
-            "name": "Robin Gloster",
-            "email": "robin@loc-com.de"
+            "name": "Robin Gloster"
         },
         {
-            "name": "Sahat Yalkabov",
-            "email": "sakhat@gmail.com"
+            "name": "Sahat Yalkabov"
         }
     ],
     "dependencies": {},
@@ -152,24 +133,19 @@
     "main": "lib/index.js",
     "maintainers": [
         {
-            "name": "vojtajina",
-            "email": "vojta.jina+npm@gmail.com"
+            "name": "vojtajina"
         },
         {
-            "name": "maksimr",
-            "email": "rv.maksim@gmail.com"
+            "name": "maksimr"
         },
         {
-            "name": "zzo",
-            "email": "mark@zzo.com"
+            "name": "zzo"
         },
         {
-            "name": "dignifiedquire",
-            "email": "dignifiedquire@gmail.com"
+            "name": "dignifiedquire"
         },
         {
-            "name": "karmarunnerbot",
-            "email": "karmarunnerbot@gmail.com"
+            "name": "karmarunnerbot"
         }
     ],
     "name": "karma-jasmine",
@@ -178,7 +154,6 @@
         "jasmine-core": "*",
         "karma": "*"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/karma-runner/karma-jasmine.git"
@@ -189,16 +164,6 @@
     "version": "1.1.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module karma-jasmine](#apidoc.module.karma-jasmine)
-
-
-
-# <a name="apidoc.module.karma-jasmine"></a>[module karma-jasmine](#apidoc.module.karma-jasmine)
 
 
 
