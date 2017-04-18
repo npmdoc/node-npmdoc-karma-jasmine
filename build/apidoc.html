@@ -61,12 +61,105 @@
 
     <li class="apidocModuleLi"><a href="#apidoc.module.karma-jasmine">module karma-jasmine</a><ol>
 
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.karma-jasmine.wallaby">
+            function <span class="apidocSignatureSpan">karma-jasmine.</span>wallaby
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.karma-jasmine.wallaby">module karma-jasmine.wallaby</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.karma-jasmine.wallaby.wallaby">
+            function <span class="apidocSignatureSpan">karma-jasmine.</span>wallaby
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
     </ol></li>
 
 </ol></div>
 
 <div class="apidocSectionDiv">
 <h1><a href="#apidoc.module.karma-jasmine" id="apidoc.module.karma-jasmine">module karma-jasmine</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.karma-jasmine.wallaby" id="apidoc.element.karma-jasmine.wallaby">
+        function <span class="apidocSignatureSpan">karma-jasmine.</span>wallaby
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">wallaby = function () {
+  return {
+    files: [
+      {pattern: &#x27;node_modules/socket.io-client/socket.io.js&#x27;, instrument: false},
+      {pattern: &#x27;node_modules/karma/static/karma.js&#x27;, instrument: false},
+
+      &#x27;src/adapter.js&#x27;,
+      &#x27;test/mocks.js&#x27;
+    ],
+
+    tests: [
+      &#x27;test/**/*.spec.js&#x27;
+    ],
+
+    setup: function () {
+      window.__karma__ = window.karma
+    },
+
+    testFramework: &#x27;jasmine@2.4.1&#x27;
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.karma-jasmine.wallaby" id="apidoc.module.karma-jasmine.wallaby">module karma-jasmine.wallaby</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.karma-jasmine.wallaby.wallaby" id="apidoc.element.karma-jasmine.wallaby.wallaby">
+        function <span class="apidocSignatureSpan">karma-jasmine.</span>wallaby
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">wallaby = function () {
+  return {
+    files: [
+      {pattern: &#x27;node_modules/socket.io-client/socket.io.js&#x27;, instrument: false},
+      {pattern: &#x27;node_modules/karma/static/karma.js&#x27;, instrument: false},
+
+      &#x27;src/adapter.js&#x27;,
+      &#x27;test/mocks.js&#x27;
+    ],
+
+    tests: [
+      &#x27;test/**/*.spec.js&#x27;
+    ],
+
+    setup: function () {
+      window.__karma__ = window.karma
+    },
+
+    testFramework: &#x27;jasmine@2.4.1&#x27;
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
 
 </div>
 
