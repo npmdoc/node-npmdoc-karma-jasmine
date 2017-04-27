@@ -1,6 +1,6 @@
 # npmdoc-karma-jasmine
 
-#### api documentation for  [karma-jasmine (v1.1.0)](https://github.com/karma-runner/karma-jasmine#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-jasmine.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-jasmine) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-jasmine.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-jasmine)
+#### basic api documentation for  [karma-jasmine (v1.1.0)](https://github.com/karma-runner/karma-jasmine#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-jasmine.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-jasmine) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-jasmine.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-jasmine)
 
 #### A Karma plugin - adapter for Jasmine testing framework.
 
@@ -161,7 +161,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
